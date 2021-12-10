@@ -5,10 +5,16 @@
     <li>研究問題：</li>
   </ul>
   
-<h2>研究中使用的分析工具</h2>
+<h2>資料收集工具</h2>
+  <ul>
+    <li>線上問卷(surveycake)</a></li>
+    <li>手機錄音、拍照</li>
+  </ul>
 
-<p>
-<span>概念圖範例</span>
-<br>
-<img src="https://github.com/jerryyehself/Python-thesis/blob/main/example.png?raw=true" width=50%></img>
-</p>
+<h2>資料分析工具</h2>
+
+  <p>
+  <span>概念圖範例</span>
+  <br>
+  <img src="https://github.com/jerryyehself/Python-thesis/blob/main/example.png?raw=true" width=50%></img>
+  </p>
