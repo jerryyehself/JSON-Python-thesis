@@ -91,8 +91,8 @@
   * 實際範例
   
     ```
-    "RR_01":
-    {       
+    "reader_code": "RR_01",
+    "concept_map_information":{       
         "data_elements":
         [
             {
